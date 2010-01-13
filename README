@@ -1,0 +1,7 @@
+Follow mysql.jpg to setup a table in mysql
+then fill in $username ,$password ,$hostname, $dbname,$db_table_name in cronplus.php
+
+Input accounts into mysql,
+At last run cronplus.php
+
+You need at least 4 accounts to ensure everyone can really finish their work.
